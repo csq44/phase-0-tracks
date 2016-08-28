@@ -17,3 +17,5 @@ A git commit saves changes in your repository.  A commit message needs to be spe
 * What is a merge conflict?
 
 A merge conflict is when an error occurs when merging or pulling from a branch.  Git notifies you to fix the conflicts and then commit the results.
+
+# YAY!!!
