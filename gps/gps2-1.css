@@ -1,3 +1,37 @@
 body {
-	background-color: red;
+
+  display: block;
+  font-family: Helvetica;
+}
+
+header {
+
+  font-family: Helvetica;
+  color: white;
+  padding: 25px;
+  background-color: #75D7DD;
+}
+
+.column-1 {
+
+  display: block;
+  float: left;
+  width: 45%;
+  margin-left: 25px;
+}
+
+.column-2 {
+
+  display: block;
+  float: right;
+  width; 45%;
+}
+
+footer {
+
+  display: block;
+  padding: 5%;
+  clear: both;
+  text-align: center;
+
 }
