@@ -1,0 +1,25 @@
+Elevator floor buttons is 1-6, 2 columns, 3 rows
+Current first floor first column first row button
+if destination is 2nd floor
+	press first column second row
+if desitnation is 3rd flooor
+	press first column third row
+if destination is 4th floor
+	press second column first row
+if destination is 5th floor
+	press second column second row
+if destination is 6th floor 
+	press second column third row
+if destination is 1st floor
+	jump up repeatedly
+
+
+
+Walking across the street
+
+
+From destination A walk in a straight line until you reach street A
+after reaching street A turn left until you see a cross walk
+Stop and look left
+Look right
+If there are no traffic incoming continue walking straight until you reach destination B
